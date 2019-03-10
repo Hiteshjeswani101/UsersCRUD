@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Built-By: Saraswati
+Build-Jdk: 11.0.2
+Implementation-Title: SpringBoot_H2_Database
+Implementation-Version: 1.5.10.RELEASE
+Implementation-Vendor-Id: com.sparks.foundation
+Implementation-Vendor: Pivotal Software, Inc.
+Implementation-URL: http://projects.spring.io/spring-boot/SpringBoot_H2_
+ Database/
+Created-By: Maven Integration for Eclipse
+
